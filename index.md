@@ -12,6 +12,6 @@ header:
 
 I am a postdoctoral scholar at the California Institute of Technology, [Division of Geological and Planetary Sciences](http://www.gps.caltech.edu). I am interested in ocean dynamics, ice-ocean interactions, sea ice variability, and high-latitude climate change. 
 
-For my PhD thesis, I studied ice-ocean interactions around Antarctica, focusing on the wintertime coupling between deep ocean ventilation and sea ice growth. This work relied heavily on under-ice ocean data collected by Argo floats and instrumented seals.
+For my PhD thesis, I studied sea ice-ocean interactions around Antarctica, using under-ice ocean data collected by Argo floats and instrumented seals as well as idealized ice-ocean models.
 
-For my postdoctoral research, I am working with [Professor Andy Thompson](http://web.gps.caltech.edu/~andrewt/index.html) to tackle the general topic of deep ocean heat transport across the polar gyres of the Southern Ocean. 
+For my postdoctoral research, I am working with [Professor Andrew Thompson](http://web.gps.caltech.edu/~andrewt/index.html) to assess the impact of polar gyre dynamics on poleward heat transport and Southern Ocean overturning.
